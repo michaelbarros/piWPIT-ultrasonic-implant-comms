@@ -36,12 +36,16 @@ Implements OOK and FSK under AWGN, calculating BER across patient profiles and m
 
 ## 📂 Repository Structure
 piWPIT-ultrasonic-implant-comms/
-│
-├── piwpit_simulation.py # Main annotated simulation script (BER, voltage, propagation)
-├── figures/ # Auto-generated plot for the paper
-├── data/ # Raw and processed data
-└── README.md # This file
 
+│
+
+├── piwpit_simulation.py # Main annotated simulation script (BER, voltage, propagation)
+
+├── figures/ # Auto-generated plot for the paper
+
+├── data/ # Raw and processed data
+
+└── README.md # This file
 
 ---
 
