@@ -62,6 +62,7 @@ cd piWPIT-ultrasonic-implant-comms
 pip install numpy matplotlib seaborn scikit-learn
 
 3️⃣ Run the simulation:
+
 python piwpit_simulation.py
 
 4️⃣ View generated plots:
