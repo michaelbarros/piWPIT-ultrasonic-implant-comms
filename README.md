@@ -54,6 +54,7 @@ piWPIT-ultrasonic-implant-comms/
 1️⃣ Clone the repository:
 
 git clone https://github.com/YourUsername/piWPIT-ultrasonic-implant-comms.git
+
 cd piWPIT-ultrasonic-implant-comms
 
 2️⃣ Install dependencies:
